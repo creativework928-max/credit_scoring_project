@@ -1,0 +1,7 @@
+{
+    "best_model": "Random Forest",
+    "selection_metric": "ROC-AUC",
+    "random_state": 42,
+    "target": "credit_risk",
+    "positive_class": "Bad Credit"
+}
