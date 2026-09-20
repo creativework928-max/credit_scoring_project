@@ -1,0 +1,23 @@
+DATA_DICTIONARY = {
+    "Attribute1": "Checking account status",
+    "Attribute2": "Loan duration in months",
+    "Attribute3": "Credit history",
+    "Attribute4": "Purpose of credit",
+    "Attribute5": "Credit amount",
+    "Attribute6": "Savings account/bonds",
+    "Attribute7": "Employment duration",
+    "Attribute8": "Installment rate as percentage of disposable income",
+    "Attribute9": "Personal status and sex",
+    "Attribute10": "Other debtors / guarantors",
+    "Attribute11": "Years at current residence",
+    "Attribute12": "Property ownership",
+    "Attribute13": "Age",
+    "Attribute14": "Other installment plans",
+    "Attribute15": "Housing",
+    "Attribute16": "Number of existing credits at this bank",
+    "Attribute17": "Job type",
+    "Attribute18": "Number of dependents",
+    "Attribute19": "Telephone ownership",
+    "Attribute20": "Foreign worker",
+    "credit_risk": "Target: 0 = Good, 1 = Bad"
+}
